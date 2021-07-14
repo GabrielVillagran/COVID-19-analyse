@@ -1,6 +1,5 @@
-# Text Editor aka Bloc de notas
+# Notenook made on Google colab
 
-Cerda Estrada Jose Martin
 Villagran Saucedo Gabriel Aldair
 
-El proyecto es un editor de texto el cual nos permite realizar todas las funciones que cualquier editor de texto, en este caso, solamente esta configurado para cargar archivos .txt, puedes, regresar, copiar, pegar, buscar cierta palabra dentro del documento, este proyecto se entrego en la materia de Interfaces Graficas con aplicaciones impartida por el DR. Alberto Salvador Nuñez Varela
+This is a notebook that I used for the workshop "Análisis estadístico con Google Colab y R" by Dr. Daniel Ulises Campos Delgado on Verano de la ciencia 2021 UASLP
