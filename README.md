@@ -1,4 +1,4 @@
-# Notenook made on Google colab
+# Notebook made on Google colab
 
 Villagran Saucedo Gabriel Aldair
 
